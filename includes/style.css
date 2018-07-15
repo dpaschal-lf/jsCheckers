@@ -75,6 +75,17 @@ body{
 .whiteSquare{
 	background-color: white;
 }
+.token{
+	background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    height: 80%;
+    border: 3px solid lime;
+    width: 80%;
+    position: relative;
+    top: 5%;
+    left: 5%;
+}
 
 
 
